@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deenah85)](https://github.com/deenah85/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,jenkins,ansible,aws,linux,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,jenkins,ansible,aws,linux,html,css,wordpress" />
   </a>
 </p>
