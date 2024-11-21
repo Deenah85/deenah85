@@ -23,3 +23,4 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,jenkins,ansible,aws,linux,html,css,wordpress" />
   </a>
 </p>
+<spacer-gif height="1" width="1" bgcolor="#DD6633"></spacer-gif>
