@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<spacer-gif height="1" width="1" bgcolor="#DD6633"></spacer-gif>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deenah85)](https://github.com/deenah85/github-readme-stats)
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
