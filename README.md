@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deenah85)](https://github.com/deenah85/github-readme-stats)
-</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
