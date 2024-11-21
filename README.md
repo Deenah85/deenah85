@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Dina Soliman, an IT professional with over 10 years of experience. Recently, I’ve developed a strong passion for DevOps. As I explore and work in this field, my enthusiasm continues to grow with every step I take.
+
 <!--
 **Deenah85/deenah85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
