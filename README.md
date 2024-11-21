@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script async type="module" src="/node_modules/@erikkroes/spacer-gif/spacer-gif.js"></script>
 
-<spacer-gif height="1" width="1"></spacer-gif>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deenah85)](https://github.com/deenah85/github-readme-stats)
